@@ -1,4 +1,4 @@
-# Test senior Stereolabs - Implémentation de DeepLabV3 avec TensorRT en C++
+# Implémentation de DeepLabV3 avec TensorRT en C++
 
 ## Description du projet
 
